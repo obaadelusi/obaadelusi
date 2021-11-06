@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Obafunsho</h1>
 <h3 align="center">A frontend developer in Winnipeg, Canada</h3>
 
-[![whatobathinks.com](/images/whatobathinks-hero.PNG 'whatobathinks portfolio')](https://whatobathinks.com)
+[![whatobathinks.github.io](https://github.com/whatobathinks/my-website/raw/master/images/whatobathinks-hero.PNG 'whatobathinks portfolio')](https://whatobathinks.github.io)
 
 -  🔭 I’m currently freelancing as a **Frontend Developer**
 
--  👯 I’m looking to collaborate on **JavaScript projects**
+-  👯 I’m looking to collaborate on **ERP and eCommerce projects**
 
 -  📝 I write articles on [blog.whatobathinks.com](https://blog.whatobathinks.com)
 
