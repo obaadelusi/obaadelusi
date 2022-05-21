@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oba</h1>
 <h3 align="center">A Web Developer in Canada</h3>
 
-[![whatobathinks.github.io](https://github.com/whatobathinks/my-website/raw/master/images/whatobathinks-hero_small.jpg 'whatobathinks portfolio')](https://obaadelusi.github.io)
+[![whatobathinks.github.io](https://github.com/whatobathinks/my-website/raw/master/images/whatobathinks-hero_small.jpg 'whatobathinks portfolio')](https://github.com/obaadelusi?tab=repositories)
 
 -  🔭 I’m currently job searching as a **Data Analyst**
 
