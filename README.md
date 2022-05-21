@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oba</h1>
 <h3 align="center">A Web Developer in Canada</h3>
 
-[![whatobathinks.github.io](https://github.com/whatobathinks/my-website/raw/master/images/whatobathinks-hero.PNG 'whatobathinks portfolio')](https://whatobathinks.github.io)
+[![whatobathinks.github.io](https://github.com/whatobathinks/my-website/raw/master/images/whatobathinks-hero_small.jpg 'whatobathinks portfolio')](https://obaadelusi.github.io)
 
--  🔭 I’m currently job searching as a **Frontend Developer**
+-  🔭 I’m currently job searching as a **Data Analyst**
 
--  👯 I’m looking to collaborate on **ERP and eCommerce projects**
+-  👯 I’m looking to collaborate on **ERP Dashboard and eCommerce projects**
 
 -  📝 I write articles on [blog.whatobathinks.com](https://blog.whatobathinks.com)
 
